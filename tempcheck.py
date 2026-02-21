@@ -1,3 +1,5 @@
 print("Hello, World! - RK")
+print("Hello, World!")
 print("This is a simple Python script to check the temperature. - RK")
 print("Aarushi can u see this? - RK")
+print("This is a test message to check theifhiehuiehfeh fie. - RK")
